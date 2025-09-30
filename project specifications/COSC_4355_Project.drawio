@@ -1,17 +1,50 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1444" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0BhQRku9kcQ7Qq6cpFIh-1" value="screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-740" width="120" height="60" as="geometry" />
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0BhQRku9kcQ7Qq6cpFIh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="-630" as="sourcePoint" />
+            <mxPoint x="140" y="-600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="0BhQRku9kcQ7Qq6cpFIh-2" value="transition" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-740" width="120" height="60" as="geometry" />
+        <mxCell id="0BhQRku9kcQ7Qq6cpFIh-1" value="Home Screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-720" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0BhQRku9kcQ7Qq6cpFIh-3" value="Something Journey" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0BhQRku9kcQ7Qq6cpFIh-2" value="Tap Camera" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0BhQRku9kcQ7Qq6cpFIh-3" value="Something Journey" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-3" value="Camera Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.5" y="-520" as="sourcePoint" />
+            <mxPoint x="139.5" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-5" value="Capture Photo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.5" y="-400" as="sourcePoint" />
+            <mxPoint x="139.5" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-7" value="Camera Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="-210" as="sourcePoint" />
+            <mxPoint x="260" y="-170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
