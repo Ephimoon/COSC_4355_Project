@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1825" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2636" dy="2608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,6 +297,43 @@
         </mxCell>
         <mxCell id="UQSMR9rfrxmfWVXOI2dR-120" value="Home Screen - still works but no camera feature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-124" value="tap settings tab" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="UQSMR9rfrxmfWVXOI2dR-122" target="UQSMR9rfrxmfWVXOI2dR-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-122" value="Home Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQSMR9rfrxmfWVXOI2dR-123" target="UQSMR9rfrxmfWVXOI2dR-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-123" value="Settings Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-131" value="account info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="UQSMR9rfrxmfWVXOI2dR-125" target="UQSMR9rfrxmfWVXOI2dR-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-134" value="macro filters" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="UQSMR9rfrxmfWVXOI2dR-125" target="UQSMR9rfrxmfWVXOI2dR-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-125" value="Edit what?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-132" value="save" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="UQSMR9rfrxmfWVXOI2dR-129" target="UQSMR9rfrxmfWVXOI2dR-123">
+          <mxGeometry x="-0.4194" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-129" value="Edit Account Fields" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-135" value="set filters" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="UQSMR9rfrxmfWVXOI2dR-133" target="UQSMR9rfrxmfWVXOI2dR-125">
+          <mxGeometry x="0.4002" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQSMR9rfrxmfWVXOI2dR-133" value="Macro Filters Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="680" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
